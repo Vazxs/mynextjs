@@ -1,1 +1,2 @@
-# mynextjs
+# Sekai
+hello world
